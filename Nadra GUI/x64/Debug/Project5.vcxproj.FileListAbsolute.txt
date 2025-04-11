@@ -1,0 +1,23 @@
+C:\Users\M Mairaj\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\M Mairaj\source\repos\Project5\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\M Mairaj\source\repos\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\M Mairaj\source\repos\Project5\Project5\x64\Debug\Project5.My2ndForm.resources
+C:\Users\M Mairaj\source\repos\Project5\Project5\x64\Debug\Project5.MyForm3.resources
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.My2ndForm.resources
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.MyForm.resources
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.MyForm3.resources
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\M Mairaj\source\repos\22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.exe
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.My2ndForm.resources
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.MyForm.resources
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.MyForm3.resources
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\M Mairaj\source\repos\GUI_22P9327_MMairaj&22P9323_Samiullah\Nadra GUI\x64\Debug\Project5.exe
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.My2ndForm.resources
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.MyForm.resources
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.MyForm3.resources
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\M Mairaj\Desktop\Nadra GUI\x64\Debug\Project5.exe
